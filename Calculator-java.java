@@ -1,4 +1,3 @@
-//Hey, find the code for calculator below . And i am sorry i can not provide links of my private accounts
 import java.awt.event.*;
 import javax.swing.*;
 import java.awt.*;
